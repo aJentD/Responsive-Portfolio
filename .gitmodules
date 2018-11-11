@@ -1,0 +1,6 @@
+[submodule "Psychic-Game"]
+	path = Psychic-Game
+	url = https://github.com/aJentD/Psychic-Game
+[submodule "Word-Guess-Game"]
+	path = Word-Guess-Game
+	url = https://github.com/aJentD/Word-Guess-Game
