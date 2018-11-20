@@ -5,3 +5,6 @@
 	path = Word-Guess-Game
 	url = https://github.com/aJentD/Word-Guess-Game
 
+[submodule "Unit-4-Game-Crystal"]
+	path = Unit-4-Game-Crystal
+	url = https://github.com/aJentD/Unit-4-Game-Crystal.git
