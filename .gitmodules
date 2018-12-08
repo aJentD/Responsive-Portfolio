@@ -8,3 +8,6 @@
 [submodule "Unit-4-Game-Crystal"]
 	path = Unit-4-Game-Crystal
 	url = https://github.com/aJentD/Unit-4-Game-Crystal.git
+[submodule "Trivia-Game"]
+	path = Trivia-Game
+	url = https://github.com/aJentD/Trivia-Game.git
