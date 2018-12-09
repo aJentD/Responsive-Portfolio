@@ -11,3 +11,6 @@
 [submodule "Trivia-Game"]
 	path = Trivia-Game
 	url = https://github.com/aJentD/Trivia-Game.git
+[submodule "Giphy-API"]
+	path = Giphy-API
+	url = https://github.com/aJentD/Giphy-API.git
